@@ -1,7 +1,7 @@
 ---
-title: "CodeBook: Analyzing Wearable Computing Data"
-author: "Coursera | Getting and Cleaning Data Course Project"
-date: "Clara Abdurazak | January 15, 2017"
+title: "Code Book"
+author: "Clara Abdurazak | Getting and Cleaning Data Course Project"
+date: "January 15, 2017"
 output: html_document
 ---
 
@@ -11,19 +11,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -----
 
-### **About this Code Book**
+### **Code Book: Analyzing Wearable Computing Data**
 
 This code book describes the variables, data (including units), transformations and calculations performed to clean up and summarize the Samsung wearable computing data. 
 
------
+View HTML version: http://htmlpreview.github.io/?https://github.com/clarablara/GettingandCleaningData/blob/master/CodeBook.html
 
-# Data, Calculations and Variables
+-----
 
 ### Description of Raw (Samsung) Data
 
 The raw data to be analyzed by this program was collected from the accelerometers from the Samsung Galaxy S smartphone. A full description of the Samsung data (including download links) is available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-...
+-----
 
 ### Description of Transformations and Calculations Performed
 
@@ -37,7 +37,7 @@ The raw Samsung data was put through a series of transformations and calculation
 
 For a more complete description of how `run_analysis.R` works, please see the README file included in this repo.
 
-...
+-----
 
 ### Description of Variables
 
